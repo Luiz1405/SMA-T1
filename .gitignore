@@ -1,0 +1,13 @@
+bin/
+target/
+
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+.env
+
+*.class
